@@ -59,8 +59,8 @@
   - title: "Roadmap"
     url: "/roadmap/"
 
-- title: Blog
-  url: "/blog/"
+- title: Events
+  url: "/events/"
   side: left
   dropdown:
   - title: "Blog Archive"

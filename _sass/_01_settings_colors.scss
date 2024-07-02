@@ -42,6 +42,7 @@ $ci-8               : #E27517; // light brown
 $ci-5               : #B97A57; // dark orange
 $ci-4               : #F19F39; // orange
 $ci-2               : #F5C362; // camel
+$ci-9               : #333333; // very dark brown
 
 
 
@@ -120,12 +121,12 @@ $topbar-menu-icon-color-toggled: $ci-6;
 /* Footer
 ------------------------------------------------------------------- */
 
-$footer-bg          : $grey-8;
+$footer-bg          : $ci-8;
 $footer-color       : #fff;
 $footer-link-color  : $ci-6;
 
 
-$subfooter-bg       : $grey-13;
+$subfooter-bg       : $ci-9;
 $subfooter-color    : $grey-8;
 $subfooter-link-color: $grey-8;
 
