@@ -33,14 +33,16 @@ $body-bg            : #F1F8FE;
 // $ci-5               : #DF4949; // red
 // $ci-6               : #A1D044; // green
 
-$ci-6               : #5B331E; // dark brwon
-$ci-3               : #6DBF4A; // green
-$ci-2               : #F3C176; // camel
-// $ci-4               : #E27517; // light brown
-$ci-4               : #ff9900; // light brown
-$ci-5               : #B97A57; // dark orange
-$ci-1               : #3E721D; // dark green
+
 $ci-7               : #C8E4EF; // sky blue
+$ci-1               : #3E721D; // dark green
+$ci-3               : #98C24C; // green
+$ci-6               : #5B331E; // dark brown
+$ci-8               : #E27517; // light brown
+$ci-5               : #B97A57; // dark orange
+$ci-4               : #F19F39; // orange
+$ci-2               : #F5C362; // camel
+
 
 
 
@@ -50,11 +52,11 @@ $ci-7               : #C8E4EF; // sky blue
 /* Foundation Color Variables
 ------------------------------------------------------------------- */
 
-$primary-color      : $ci-4;
-$secondary-color    : $ci-6;
-$alert-color        : $ci-5;
+$primary-color      : $ci-3;
+$secondary-color    : $ci-4;
+$alert-color        : $ci-4;
 $success-color      : $ci-6;
-$warning-color      : $ci-4;
+$warning-color      : $ci-5;
 $info-color         : $ci-1;
 
 
@@ -86,21 +88,19 @@ $grey-16            : #0B0B0B;
 
 $topbar-bg-color    : $body-bg;
 $topbar-bg          : $topbar-bg-color;
-$topbar-bg          : $ci-7;
-
 
 $topbar-dropdown-toggle-color: $ci-1;
 
 $topbar-link-color  : #000;
-$topbar-link-color-hover: #999;
-$topbar-link-color-active: #999;
+$topbar-link-color-hover: #fff;
+$topbar-link-color-active: #fff;
 $topbar-link-color-active-hover: #000;
 
 $topbar-dropdown-label-color: $ci-2;
 $topbar-dropdown-link-bg-hover: $ci-6;
 
-$topbar-link-bg-active: $ci-6; // Active Navigation Link
-$topbar-link-bg-hover: $ci-6;
+$topbar-link-bg-active: $ci-1; // Active Navigation Link
+$topbar-link-bg-hover: $ci-1;
 $topbar-link-bg-active-hover: $ci-2;
 
 
