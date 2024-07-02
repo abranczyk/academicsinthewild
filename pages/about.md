@@ -5,7 +5,7 @@ title               : "About"
 # subheadline         : "A Step-by-Step Guide"
 # teaser              : "About Academics in the Wild"
 header:
-   # image_fullwidth  : "temp-jungle.png"
+   image_fullwidth  : "temp-jungle.png"
 permalink           : "/about/"
 ---
 Academics in the Wild (AITW) is an initiative to support physicists and mathematicians in their journey from academia to industry. If you're currently on any stage of that journey, we would love to have you on board!
