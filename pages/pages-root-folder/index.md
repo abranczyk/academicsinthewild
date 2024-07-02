@@ -34,8 +34,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
+  url: https://forms.academicsinthewild.com/subscribe
+  text: Subscribe to our mailing list
   style: alert
 permalink: /index.html
 #
