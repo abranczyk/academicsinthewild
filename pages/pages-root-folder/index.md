@@ -5,23 +5,24 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-# header:
-#   image_fullwidth: header_unsplash_12.jpg
+header:
+  image_fullwidth: temp-jungle.png
 widget1:
-  title: "Blog & Portfolio"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
-widget2:
-  title: "Why use this theme?"
+  title: "Nonlinear careers"
   url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  text: 'Academics in the Wild (AITW) is an initiative to support physicists and mathematicians on their nonlinear career adventure from academia to industry. Are you currently on any stage of this journey? If so, join us!'
+  video: '<a href="#" data-reveal-id="videoModal2"><img src="./images/frontpage-aitw-title-page-screenshot.png" width="302" height="182" alt=""/></a>'
+widget2:
+  title: "Events"
+  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  image: frontpage-jungle-animals.png
+  text: 'We believe that learning from each other is the best way to nagivate a career transition. We welcome you to our Discord server where we host informative and supportive events, including AMAs/Q&As with former academics who are now in industry, 1-1 coffee chats, workshops, and watch parties.'
 widget3:
-  title: "Download Theme"
-  url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. The code is well-documented and explains you how it works.'
+  title: "Physicists in the Wild"
+  url: 'http://phlow.github.io/feeling-responsive/info/'
+  text: 'If you can see it you can be it. Join Aggie Branczyk as she interviews physicists who have turned their PhD training into diverse and often unconventional careers, from the corporate world to government, from education to finance, and more.'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="./images/frontpage-pitw-trailer-screenshot-emily-katiuscia.png" width="302" height="182" alt=""/></a>'
+
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -46,7 +47,14 @@ homepage: true
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
+    <iframe width="1280" height="720" src="https://www.youtube.com/embed/fJ5oW9WiNTg" frameborder="0" allowfullscreen></iframe>
+  </div>
+  <a class="close-reveal-modal">&#215;</a>
+</div>
+
+<div id="videoModal2" class="reveal-modal large" data-reveal="">
+  <div class="flex-video widescreen vimeo" style="display: block;">
+    <iframe width="1280" height="720" src="https://www.youtube.com/embed/eZv9o0Q5YMg" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
