@@ -2,9 +2,9 @@
 layout: default
 title: "Events"
 teaser:
-breadcrumb: true
+breadcrumb: false
 header:
-   <!-- image_fullwidth: header_unsplash_8.jpg -->
+   image_fullwidth: temp-jungle.png
 permalink: "events/archive/"
 ---
 
@@ -25,16 +25,16 @@ permalink: "events/archive/"
 		  </ul>
 		<dl class="accordion" data-accordion>
 			{% assign counter = 1 %}
-			{% for post in site.posts limit:1000 %}
+			{% for event in site.events limit:1000 %}
 			<dd class="accordion-navigation">
-			<a href="#panel{{ counter }}"><span class="iconfont"></span> {% if post.subheadline %}{{ post.subheadline }} › {% endif %}<strong>{{ post.title }}</strong></a>
+			<a href="#panel{{ counter }}"><span class="iconfont"></span> {% if event.subheadline %}{{ event.subheadline }} › {% endif %}<strong>{{ event.title }}</strong></a>
 				<div id="panel{{ counter }}" class="content">
-					{% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% elsif post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}
-					<a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a><br><br>
+					{% if event.meta_description %}{{ event.meta_description | strip_html | escape }}{% elsif event.teaser %}{{ event.teaser | strip_html | escape }}{% endif %}
+					<a href="{{ site.url }}{{ site.baseurl }}{{ event.url }}" title="Read {{ event.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a><br><br>
 				</div>
 			</dd>
 			{% assign counter=counter | plus:1 %}
 			{% endfor %}
-		</dl>
+		</dl><br><br>
 	</div><!-- /.small-12.columns -->
 </div><!-- /.row -->

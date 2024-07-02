@@ -38,7 +38,7 @@ improve_content: https://github.com/abranczyk/aitw.github.io/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: './images/'
+urlimg: '/feeling-responsive/images/'
 
 
 # Logo size is 600x80 pixels
@@ -270,3 +270,9 @@ asciidoctor:
     source-highlighter: coderay
     coderay-css: style
     icons: font
+
+# NEW COLLECTION
+collections:
+  events:
+    output: true
+    permalink: /events/:path/
