@@ -3,8 +3,8 @@ layout              : page-fullwidth
 show_meta           : false
 title               : "Resources"
 teaser              : "A growing list of resources for physics and math PhD candidates and graduates exploring careers outside of academica."
-# header:
-#    image_fullwidth  : "header-jungle-colored-composition-zebras-elephant-flamingos-parrots-are-green-jungle-vector-illustration.jpg"
+header:
+   image_fullwidth  : "header-jungle-colored-composition-zebras-elephant-flamingos-parrots-are-green-jungle-vector-illustration.jpg"
 permalink           : "/resources/"
 ---
 ### Websites/blogs/columns

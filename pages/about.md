@@ -4,8 +4,8 @@ show_meta           : false
 title               : "About"
 # subheadline         : "A Step-by-Step Guide"
 # teaser              : "About Academics in the Wild"
-# header:
-#    image_fullwidth  : "header-flat-jungle-composition-birds-fly-dense-jungle-pink-flamingos-large-parrots.jpg"
+header:
+   image_fullwidth  : "header-flat-jungle-composition-birds-fly-dense-jungle-pink-flamingos-large-parrots.jpg"
 permalink           : "/about/"
 callforaction:
   url: https://forms.academicsinthewild.com/subscribe
