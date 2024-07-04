@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: temp-jungle.png
+  image_fullwidth: header-tiger-jungle-background-flip.jpg
 widget1:
   title: "Nonlinear careers"
   url: 'http://phlow.github.io/feeling-responsive/info/'
