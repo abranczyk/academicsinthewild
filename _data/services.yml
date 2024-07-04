@@ -1,8 +1,17 @@
-# - menu_name: "Services"
+- menu_name: "Community"
 
-# - name: "Contact"
-#   url: "/contact/"
-#   title: "Contact"
+- name: "Subscribe"
+  url: "https://forms.academicsinthewild.com/subscribe"
+  title: "Subscribe"
+
+
+- name: "Discord"
+  url: "https://discord.gg/4h7m5ag9d4"
+  title: "Discord"
+
+- name: "Code of conduct"
+  url: "/code-of-conduct/"
+  title: "Code of conduct"
 
 # - name: "RSS"
 #   url: "/feed.xml"
