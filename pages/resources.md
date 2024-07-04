@@ -1,5 +1,5 @@
 ---
-layout              : page-fullwidth-improve-content
+layout              : page-fullwidth
 show_meta           : false
 title               : "Resources"
 teaser              : "A growing list of resources for physics and math PhD candidates and graduates exploring careers outside of academica."

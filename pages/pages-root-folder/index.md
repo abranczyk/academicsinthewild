@@ -5,8 +5,8 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-# header:
-#   image_fullwidth: "header-tiger-jungle-background-flip.jpg"
+header:
+  image_fullwidth: "header-tiger-jungle-background-flip.jpg"
 widget1:
   title: "Nonlinear careers"
   url: '/about'
