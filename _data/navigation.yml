@@ -6,6 +6,10 @@
   url: "/about/"
   side: left
 
+- title: Resources
+  url: "/resources/"
+  side: left
+
 # - title: Events
 #   url: "/events/"
 #   side: left
@@ -64,7 +68,7 @@
 #     url: "/roadmap/"
 
 - title: Events
-  url: "/events/archive/"
+  url: "/events/"
   side: left
   # dropdown:
   # - title: "Blog Archive"
