@@ -3,7 +3,7 @@
   side: left
 
 - title: About
-  url: "/about/"
+  url: "/about"
   side: left
 
 - title: Events
@@ -11,5 +11,5 @@
   side: left
 
 - title: Resources
-  url: "/resources/"
+  url: "/resources"
   side: left
