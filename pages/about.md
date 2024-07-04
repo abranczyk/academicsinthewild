@@ -23,6 +23,6 @@ The Discord server has several roles:
 - **@Explorer** 🧭 Physics/math PhD candidates/grads who are exploring industry and want to actively participate in the AITW community, join private events, access archived material. Become an explorer here. 
 - **@Ranger** 🤠 Mentors/advisors/AMA-guests/speakers/event-hosts who actively participate in the community. Like explorers, but with industry experience. Apply to be a ranger here.
 
-If you would like stay up-to-date as the initiative grows, click the "Sign up" button below.
+If you would like stay up-to-date as the initiative grows, subscribe to our mailing list. click the "Sign up" button below.
 
 See you soon!

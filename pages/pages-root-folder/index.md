@@ -6,20 +6,20 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header-tiger-jungle-background-flip.jpg
+  image_fullwidth: "header-tiger-jungle-background-flip.jpg"
 widget1:
   title: "Nonlinear careers"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
+  url: '/about'
   text: 'Academics in the Wild (AITW) is an initiative to support physicists and mathematicians on their nonlinear career adventure from academia to industry. Are you currently on any stage of this journey? If so, join us!'
   video: '<a href="#" data-reveal-id="videoModal2"><img src="./images/frontpage-aitw-title-page-screenshot.png" width="302" height="182" alt=""/></a>'
 widget2:
   title: "Events"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  url: '/events'
   image: frontpage-jungle-animals.png
   text: 'We believe that learning from each other is the best way to nagivate a career transition. We welcome you to our Discord server where we host informative and supportive events, including AMAs/Q&As with former academics who are now in industry, 1-1 coffee chats, workshops, and watch parties.'
 widget3:
   title: "Physicists in the Wild"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
+  url: 'https://youtube.com/playlist?list=PLnwt2ODY2PX0hnUJgIwCwHSkPzH4J4fVX&si=9vLMk1CJqqb3z_xy'
   text: 'If you can see it you can be it. Join Aggie Branczyk as she interviews physicists who have turned their PhD training into diverse and often unconventional careers, from the corporate world to government, from education to finance, and more.'
   video: '<a href="#" data-reveal-id="videoModal"><img src="./images/frontpage-pitw-trailer-screenshot-emily-katiuscia.png" width="302" height="182" alt=""/></a>'
 

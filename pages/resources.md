@@ -1,5 +1,5 @@
 ---
-layout              : page-c2a
+layout              : page-improve-content
 show_meta           : false
 title               : "Resources"
 # subheadline         : "A Step-by-Step Guide"
@@ -7,10 +7,6 @@ title               : "Resources"
 header:
    image_fullwidth  : "header-jungle-colored-composition-zebras-elephant-flamingos-parrots-are-green-jungle-vector-illustration.jpg"
 permalink           : "/resources/"
-callforaction:
-  url: https://forms.academicsinthewild.com/subscribe
-  text: Subscribe to our mailing list
-  style: alert
 ---
 Academics in the Wild (AITW) is an initiative to support physicists and mathematicians in their journey from academia to industry. If you're currently on any stage of that journey, we would love to have you on board!
 
@@ -26,3 +22,4 @@ The Discord server has several roles:
 If you would like stay up-to-date as the initiative grows, click the "Sign up" button below.
 
 See you soon!
+
