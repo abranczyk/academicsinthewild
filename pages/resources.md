@@ -1,5 +1,5 @@
 ---
-layout              : page-fullwidth
+layout              : page-fullwidth-improve-content
 show_meta           : false
 title               : "Career Resources for PhDs"
 teaser              : "A curated list of resources for physics and math PhD candidates and graduates exploring careers outside of academica."
