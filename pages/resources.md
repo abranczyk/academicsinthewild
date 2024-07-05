@@ -42,7 +42,8 @@ _Note_: if you're on a budget, check your local or university library first!
 
 ### Job boards
 
-- [The Quantum Computing Career Network](https://hirequantum.com): Find Quantum Jobs. Hire Quantum Talent. 
+- [The Quantum Computing Career Network](https://hirequantum.com): Find Quantum Jobs. Hire Quantum Talent.
+- [Physics Today Jobs](https://jobs.physicstoday.org/)
 
 ### LinkedIn
 
