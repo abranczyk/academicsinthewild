@@ -25,12 +25,12 @@ author: aggie
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://academicsinthewild.com/'
+url: 'https://academicsinthewild.com'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: 'https://github.com/abranczyk/feeling-responsive/edit/gh-pages/'
+improve_content: 'https://github.com/abranczyk/academicsinthewild/edit/gh-pages'
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
