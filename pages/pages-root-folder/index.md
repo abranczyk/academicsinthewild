@@ -14,7 +14,7 @@ widget1:
   video: '<a href="#" data-reveal-id="videoModal2"><img src="./images/frontpage-aitw-title-page-screenshot.png" width="302" height="182" alt=""/></a>'
 widget2:
   title: "Events"
-  url: '/events'
+  url: '/events/'
   image: frontpage-jungle-animals.png
   text: 'We believe that learning from each other is the best way to nagivate a career transition. We welcome you to our Discord server where we host informative and supportive events, including AMAs/Q&As with former academics who are now in industry, 1-1 coffee chats, workshops, and watch parties.'
 widget3:
