@@ -1,7 +1,5 @@
-<a href="https://academicsinthewild.com">
-    <img width="1272" alt="AITW-screenshot" src="https://github.com/abranczyk/academicsinthewild/assets/41384600/a852976d-2c84-4ba3-b2eb-8b4404a79a69">
-</a>
-<br><br>
+[![AITW-screenshot](https://github.com/abranczyk/academicsinthewild/assets/41384600/cae4e3fc-5514-422f-a5a9-6b5919045f95)]([https://www.example.com](https://academicsinthewild.com))
+
 Academics in the Wild (AITW) is an initiative to support physicists and mathematicians in their journey from academia to industry. If you're currently on any stage of that journey, we would love to have you on board!
 
 The initiative started as a podcast called Physicists in the Wild where Aggie Branczyk interviewed physicists who turned their PhD training into diverse and often unconventional careers.
