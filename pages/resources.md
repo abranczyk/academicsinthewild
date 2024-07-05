@@ -4,7 +4,7 @@ show_meta           : false
 title               : "Career Resources for PhDs"
 teaser              : "A curated list of resources for physics and math PhD candidates and graduates exploring careers outside of academica."
 header:
-   image_fullwidth  : "header-jungle-colored-composition-zebras-elephant-flamingos-parrots-are-green-jungle-vector-illustration.jpg"
+   image_fullwidth  : "header-jungle-landscape-flat-composition-with-horizontal-view-tropical-flowers-exotic-plants-animals-with-b-flip.jpg"
 permalink           : "/resources/"
 ---
 ### Websites/blogs/columns
