@@ -19,7 +19,8 @@ permalink           : "/resources/"
 - [PostGradual: The PhD Careers Blog](https://phd-careers.co.uk/): Taking PhD careers one tip at a time. 
 - [The Professor Is In](https://theprofessorisin.com/): Guidance for all things PhD: graduate school, job market and careers. 
 - [[re]searching](https://www.researching.io/): Helping the brightest PhDs learn from mentors and connect with companies. 
-- [The Versatile PhD](https://versatilephd.com/): Helping graduate students, ABDs and PhDs identify, prepare for and excel in professional careers. 
+- [The Versatile PhD](https://versatilephd.com/): Helping graduate students, ABDs and PhDs identify, prepare for and excel in professional careers.
+- [Manager, Ph.D.](https://www.managerphd.com): PhDs can be excellent managers of teams, with a little support.
 
 ### Books
 
