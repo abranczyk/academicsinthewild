@@ -12,7 +12,7 @@ callforaction:
   text: Subscribe to our mailing list
   style: alert
 ---
-Academics in the Wild (AITW) is an initiative to support physicists and mathematicians in their journey from academia to industry. Our focus is on hosting **events**, creating a space for **community**, and providing relevant **resources**. 
+Academics in the Wild (AITW) is an initiative to support physicists and mathematicians in their journey from academia to industry. Our focus is on hosting **events**, creating a space for **community**, and providing useful **resources**. 
 
 ## Events
 We love events, so we plan to make them an integral part of the AITW initiative. We have several community events in the works, which you can check out [here](https://academicsinthewild.com/events/). 
