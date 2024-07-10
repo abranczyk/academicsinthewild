@@ -2,11 +2,13 @@
 layout              : page-fullwidth-improve-content
 show_meta           : false
 title               : "Career Resources for PhDs"
-teaser              : "A curated list of resources for physics and math PhD candidates and graduates exploring careers outside of academica."
+# teaser              : ""
 header:
    image_fullwidth  : "header-jungle-landscape-flat-composition-with-horizontal-view-tropical-flowers-exotic-plants-animals-with-b-flip.jpg"
 permalink           : "/resources/"
 ---
+A curated list of resources for physics and math PhD candidates and graduates exploring careers outside of academica.
+
 ### Websites/blogs/columns
 
 - [Beyond the Professoriate](https://beyondprof.com/): Empowering PhDs to build impactful careers and engaged lives, wherever smart people are needed.

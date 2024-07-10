@@ -6,6 +6,10 @@
   url: "/about/"
   side: left
 
+- title: Discord
+  url: "/discord/"
+  side: left
+
 - title: Events
   url: "/events/"
   side: left
