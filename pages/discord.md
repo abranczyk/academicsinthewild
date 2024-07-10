@@ -5,7 +5,7 @@ title               : "Discord"
 # subheadline         : "A Step-by-Step Guide"
 # teaser              : "About Academics in the Wild"
 header:
-   image_fullwidth  : "header-flat-jungle-composition-birds-fly-dense-jungle-pink-flamingos-large-parrots.jpg"
+   image_fullwidth  : "header-african-savannah-wild-animal-set-lion-rhino-zebra-buffalo-giraffe-flamingo-leopard-gazelle-elephant.jpg"
 permalink           : "/discord/"
 callforaction:
   url: https://forms.academicsinthewild.com/join-aitw-community
