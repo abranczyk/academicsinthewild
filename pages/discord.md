@@ -12,7 +12,7 @@ callforaction:
   text: Join the AITW community
   style: alert
 ---
-The AITW <a href="https://discord.gg/4h7m5ag9d4">Discord server</a> has several roles:
+The AITW <a href="https://discord.gg/hWcA47TNhF">Discord server</a> has several roles:
 - **@Guest** Anyone who joins the server automatically gets this role. Guests can attend public events and post in event-related guest channels when they are open.
 - **@Explorer** 🧭 This role is for physics/math PhD candidates/grads who are exploring or have moved into industry, and who want to actively participate in the AITW community, join private events and channels, and access archived material.
 - **@Ranger** 🤠 This role is for mentors/advisors/AMA-guests/speakers/event-hosts who actively participate in the AITW community. They get the same perks as Explorers, plus a few extra ones.
