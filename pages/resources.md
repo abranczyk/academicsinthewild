@@ -1,5 +1,5 @@
 ---
-layout              : page-fullwidth-improve-content
+layout              : page-fullwidth-improve-content-c2a
 show_meta           : false
 title               : "Career Resources for PhDs"
 # teaser              : ""

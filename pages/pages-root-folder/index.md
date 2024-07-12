@@ -10,13 +10,13 @@ header:
 widget1:
   title: "Nonlinear careers"
   url: '/about'
-  text: 'Academics in the Wild (AITW) is an initiative to support physicists and mathematicians on their nonlinear career adventure from academia to industry. Our focus is on hosting events, creating a space for community, and providing useful resources.'
+  text: 'Academics in the Wild (AITW) is an initiative to support physicists and mathematicians on their nonlinear career adventure beyond academia. Our focus is on hosting events, creating a space for community, and providing useful resources.'
   video: '<a href="#" data-reveal-id="videoModal2"><img src="./images/frontpage-aitw-title-page-screenshot-play.png" width="302" height="182" alt=""/></a>'
 widget2:
   title: "Events"
   url: '/events/'
   image: frontpage-jungle-animals.png
-  text: 'We love events, so we plan to make them an integral part of the AITW initiative. We have several community events in the works, including AMAs/Q&As with former academics who are now in industry, 1-1 coffee chats, workshops, and watch parties.'
+  text: 'We have several community events in the works, including AMAs/Q&As with former academics who are now in industry, 1-1 coffee chats, workshops, and watch parties.'
 widget3:
   title: "Physicists in the Wild"
   url: 'https://youtube.com/playlist?list=PLnwt2ODY2PX0hnUJgIwCwHSkPzH4J4fVX&si=9vLMk1CJqqb3z_xy'
