@@ -7,7 +7,7 @@ header:
    image_fullwidth  : "header-jungle-landscape-flat-composition-with-horizontal-view-tropical-flowers-exotic-plants-animals-with-b-flip.jpg"
 permalink           : "/resources/"
 ---
-A curated list of resources for physics and math PhD candidates and graduates exploring careers outside of academica.
+A curated list of resources for physics and math PhD candidates and graduates exploring careers outside of academia.
 
 ### Websites/blogs/columns
 
