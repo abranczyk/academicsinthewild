@@ -5,7 +5,7 @@ title               : "Career Resources for PhDs"
 # teaser              : ""
 header:
    image_fullwidth  : "header-jungle-landscape-flat-composition-with-horizontal-view-tropical-flowers-exotic-plants-animals-with-b-flip.jpg"
-permalink           : "/resources/career-resources"
+permalink           : "/resources/career-resources/"
 ---
 A curated list of resources for physics and math PhD candidates and graduates exploring careers outside of academia.
 
