@@ -17,3 +17,8 @@
 - title: Resources
   url: "/resources/"
   side: left
+  dropdown:
+  - title: "Curated List"
+    url: "/resources/career-resources/"
+  - title: "Career Transition Readiness Level"
+    url: "/resources/ctrl/"
