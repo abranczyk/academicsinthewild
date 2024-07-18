@@ -5,7 +5,7 @@ title               : "Career Transition Readiness Level"
 # teaser              : ""
 header:
    image_fullwidth  : "header-jungle-landscape-flat-composition-with-horizontal-view-tropical-flowers-exotic-plants-animals-with-b-flip.jpg"
-permalink           : "/resources/ctrl"
+permalink           : "/resources/ctrl/"
 ---
 Insipired by the [Technology Readiness Level](https://en.wikipedia.org/wiki/Technology_readiness_level) (TRL), we bring you the Career Transition Readiness Level (CTRL). 
 
