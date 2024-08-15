@@ -25,7 +25,8 @@ permalink: "events/"
 		<p> To get access to the AMA archives, <a href="https://forms.academicsinthewild.com/join-aitw-community">become a member</a>  of the AITW community.</p>
 		<dl class="accordion" data-accordion>
 			{% assign counter = 1 %}
-			{% for event in site.events limit:1000 %}
+			{% assign sorted_events = site.events | sort: 'name' | reverse %}
+			{% for event in sorted_events limit:1000 %}
 			<dd class="accordion-navigation">
 			<a href="#panel{{ counter }}"><span class="iconfont"></span> {% if event.subheadline %}{{ event.subheadline }} › {% endif %}<strong>{{ event.title }}</strong></a>
 				<div id="panel{{ counter }}" class="content">
