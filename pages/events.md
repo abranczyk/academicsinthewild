@@ -24,6 +24,8 @@ To be notified about upcoming events, subscibe to the [events calendar](https://
 
 To get access to the AMA archives, [become a member](https://forms.academicsinthewild.com/join-aitw-community).
 
+### Upcoming events:
+
 <iframe
 src="https://lu.ma/embed/calendar/cal-CTLpIIbDrNNWP1N/events?"
 width="100%"
