@@ -6,7 +6,7 @@ title               : "Events"
 # teaser              : "About Academics in the Wild"
 header:
    image_fullwidth  : "header-jungle-colored-composition-zebras-elephant-flamingos-parrots-are-green-jungle-vector-illustration-flip.jpg"
-permalink           : "/events/"
+permalink           : "/aitw-events/"
 callforaction:
   url: https://forms.academicsinthewild.com/join-aitw-community
   text: Become a member

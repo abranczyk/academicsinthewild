@@ -14,7 +14,7 @@ widget1:
   video: '<a href="#" data-reveal-id="videoModal2"><img src="./images/frontpage-aitw-title-page-screenshot-play.png" width="302" height="182" alt=""/></a>'
 widget2:
   title: "Events"
-  url: '/events/'
+  url: '/aitw-events/'
   image: frontpage-jungle-animals.png
   text: 'We have several community events in the works, including AMAs/Q&As with former academics who are now in industry, 1-1 coffee chats, workshops, and watch parties.'
 widget3:
