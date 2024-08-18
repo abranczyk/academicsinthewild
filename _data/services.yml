@@ -4,6 +4,10 @@
   url: "https://forms.academicsinthewild.com/subscribe"
   title: "Subscribe"
 
+- name: "Become a member"
+  url: "https://forms.academicsinthewild.com/join-aitw-community"
+  title: "Become a member"
+
 - name: "Discord"
   url: "https://discord.gg/hWcA47TNhF"
   title: "Discord"
