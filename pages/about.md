@@ -8,8 +8,8 @@ header:
    image_fullwidth  : "header-flat-jungle-composition-birds-fly-dense-jungle-pink-flamingos-large-parrots.jpg"
 permalink           : "/about/"
 callforaction:
-  url: https://forms.academicsinthewild.com/subscribe
-  text: Subscribe to our mailing list
+  url: https://forms.academicsinthewild.com/join-aitw-community
+  text: Become a member
   style: alert
 ---
 Changing careers is hard. It's not just about learning new skills, new jargon, or adapting to different ways of working. It also about rediscovering yourself and your place in the world, as you you grapple with existential issues of identity, belonging, and meaning. 

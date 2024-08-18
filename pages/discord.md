@@ -9,7 +9,7 @@ header:
 permalink           : "/discord/"
 callforaction:
   url: https://forms.academicsinthewild.com/join-aitw-community
-  text: Join the AITW community
+  text: Become a member
   style: alert
 ---
 The AITW <a href="https://discord.gg/hWcA47TNhF">Discord server</a> has several roles:
