@@ -17,6 +17,6 @@ The AITW <a href="https://discord.gg/hWcA47TNhF">Discord server</a> has several 
 - **@Explorer** 🧭 This role is for physics/math PhD candidates/grads who are exploring or have moved into industry, and who want to actively participate in the AITW community, join private events and channels, and access archived material.
 - **@Ranger** 🤠 This role is for mentors/advisors/AMA-guests/speakers/event-hosts who actively participate in the AITW community. They get the same perks as Explorers, plus a few extra ones.
 
-To become an **@Explorer** or a **@Ranger**, please fill out [this form](https://forms.academicsinthewild.com/join-aitw-community).
+To be upgraded to **@Explorer** or a **@Ranger**, become a member. 
 
 See you soon!
