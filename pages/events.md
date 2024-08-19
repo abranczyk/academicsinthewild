@@ -20,7 +20,7 @@ We have several community events in the works, including:
 - 1-1 coffee chats/speed networking
 - Workshops, for example, how to set up and prepare for informational interviews with people in relevant industries
 
-To be notified about upcoming events, subscibe to the [events calendar](https://lu.ma/academicsinthewild).
+To be notified about upcoming events, subscibe to the [events calendar](https://lu.ma/aitw).
 
 To get access to the AMA archives, [become a member](https://forms.academicsinthewild.com/join-aitw-community).
 
