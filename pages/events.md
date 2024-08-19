@@ -27,12 +27,12 @@ To get access to the AMA archives, [become a member](https://forms.academicsinth
 ### Upcoming events:
 
 <iframe
-src="https://lu.ma/embed/calendar/cal-CTLpIIbDrNNWP1N/events?"
+  src="https://lu.ma/embed/calendar/cal-U3pn7yIurvovmSF/events?"
 width="100%"
 height="800"
-frameborder="0"
-style="border: 1px solid #bfcbda88; border-radius: 4px;"
-allowfullscreen=""
-aria-hidden="false"
-tabindex="0"
+  frameborder="0"
+  style="border: 1px solid #bfcbda88; border-radius: 4px;"
+  allowfullscreen=""
+  aria-hidden="false"
+  tabindex="0"
 ></iframe>
