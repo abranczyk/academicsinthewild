@@ -1,4 +1,4 @@
-[![AITW-screenshot](https://github.com/abranczyk/academicsinthewild/assets/41384600/cae4e3fc-5514-422f-a5a9-6b5919045f95)]([https://www.example.com](https://academicsinthewild.com))
+[![AITW-screenshot](https://github.com/abranczyk/academicsinthewild/assets/41384600/cae4e3fc-5514-422f-a5a9-6b5919045f95)]([https://www.example.com](https://github.com/abranczyk/academicsinthewild))
 
 Academics in the Wild (AITW) is an initiative to support physicists and mathematicians in their journey from academia to industry. If you're currently on any stage of that journey, we would love to have you on board!
 
