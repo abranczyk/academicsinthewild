@@ -13,6 +13,7 @@ A curated list of resources for physics and math PhD candidates and graduates ex
 
 ### Websites/blogs/columns
 
+- [After Your PhD](https://afteryourphd.com): Explore careers outside of academia. Ask questions. Talk To People. Keep Learning.
 - [Beyond the Professoriate](https://beyondprof.com/): Empowering PhDs to build impactful careers and engaged lives, wherever smart people are needed.
 - [Carpe Careers at Inside Higher Ed](https://www.insidehighered.com/career-advice/carpe-careers): Practical-minded, career-focused articles written for grad students and postdocs, by members of [@Grad_Careers](https://twitter.com/Grad_Careers).
 - [College Info Geek - Careers](https://collegeinfogeek.com/career/): Articles and resources to give you a competitive edge for the difficult task of finding and landing a job. 
@@ -20,11 +21,11 @@ A curated list of resources for physics and math PhD candidates and graduates ex
 - [Free the PhD](https://www.freethephd.com/): Assisting grad students, PhDs, and post-docs in getting hired in a job they love. 
 - [Jobs on Toast](http://jobsontoast.com/): Career confidence for PhDs. 
 - [Leaving Physics](https://jhodgdon.com/leave-physics): Standard answers to the standard questions by Jennifer Hodgson.
+- [Manager, Ph.D.](https://www.managerphd.com): PhDs can be excellent managers of teams, with a little support.
 - [PostGradual: The PhD Careers Blog](https://phd-careers.co.uk/): Taking PhD careers one tip at a time. 
 - [The Professor Is In](https://theprofessorisin.com/): Guidance for all things PhD: graduate school, job market and careers. 
 - [[re]searching](https://www.researching.io/): Helping the brightest PhDs learn from mentors and connect with companies. 
 - [The Versatile PhD](https://versatilephd.com/): Helping graduate students, ABDs and PhDs identify, prepare for and excel in professional careers.
-- [Manager, Ph.D.](https://www.managerphd.com): PhDs can be excellent managers of teams, with a little support.
 
 ### Books
 
