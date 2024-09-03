@@ -9,6 +9,8 @@ permalink           : "/resources/"
 ---
 A curated list of resources for physics and math PhD candidates and graduates exploring careers outside of academia.
 
+**Overwhelmed by these resources? Click [here](https://forms.academicsinthewild.com/resource-digest).**
+
 ### Websites/blogs/columns
 
 - [Beyond the Professoriate](https://beyondprof.com/): Empowering PhDs to build impactful careers and engaged lives, wherever smart people are needed.
