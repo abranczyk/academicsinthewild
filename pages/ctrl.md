@@ -17,7 +17,7 @@ You can use this guide in the following ways:
 
 The CTRL consists of three stages: exploration, preparation, and transition. 
 
-![CTRL](/images/career-transition-readiness-level-from-academics-in-the-wild.jpg){:width="40%"}
+![CTRL](/academicsinthewild/images/career-transition-readiness-level-from-academics-in-the-wild.jpg){:width="40%"}
 
 
 #### **Exploration Stage**
